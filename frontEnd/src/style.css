@@ -1,0 +1,26 @@
+.left-side img{height:100%;width:100%;object-fit:cover}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    background-color: green;
+  }
+
+  .nav-links {
+    display: inline-block;
+    height: 20px;
+    background-color:white;/*will change background-color of element */
+    color: green; /*will change color of text within the element */
+    }
+    
+    .nav-links:hover {
+    background-color:green; /*will change background-color of element on hover */
+    color: white; /*will change color of text within the element on hover */
+    }
+    a {
+        text-decoration: none;
+        margin-bottom: 1rem;
+        font-size: 14px;
+    }
+    h3 {
+        text-transform: uppercase;
+
+    }
